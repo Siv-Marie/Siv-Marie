@@ -4,6 +4,9 @@
 💬 Ask me about books or the gym.  
 📫 How to reach me: call me, beep me if you wanna reach me!  
 
+[!CAUTION]
+I am obviously **very** cool. 
+
 
 <!--
 **Siv-Marie/Siv-Marie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
