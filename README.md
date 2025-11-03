@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Git!
+💬 Ask me about books or the gym.
+📫 How to reach me: call me, beep me if you wanna reach me!
+
+
 <!--
 **Siv-Marie/Siv-Marie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
